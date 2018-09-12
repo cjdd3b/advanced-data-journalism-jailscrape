@@ -1,6 +1,6 @@
 # Boone County Jail scraper
 
-We've been using this Python program in Mizzou classes for nearly a decade to explain what web scraping is and how to do it at a basic level. And now this sacred knowledge shall be passed down unto you.
+We have been using this Python program in Mizzou classes for nearly a decade to explain what web scraping is and how to do it at a basic level. And now this sacred knowledge shall be passed down unto you.
 
 Welcome to the club.
 
