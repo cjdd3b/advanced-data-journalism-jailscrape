@@ -1,4 +1,4 @@
-# Boone County Jail scraper
+# Boone County Jail scraping test
 
 We have been using this Python program in Mizzou classes for nearly a decade to explain what web scraping is and how to do it at a basic level. And now this sacred knowledge shall be passed down unto you.
 
