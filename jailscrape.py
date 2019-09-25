@@ -25,8 +25,8 @@ for r in row_list:
 
     if len(cell_list) > 0:
         for c in cell_list:
-            print c.text.strip()
+            print(c.text.strip())
 
-        print '----------'
+        print('----------')
 
-print 'IT WORKED!'
+print('IT WORKED!')
